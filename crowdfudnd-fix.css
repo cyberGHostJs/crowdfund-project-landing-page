@@ -1,3 +1,4 @@
+@media screen and (max-width: 1440px)
 body{
     box-sizing: border-box;
     margin: 0px;
@@ -374,7 +375,7 @@ hr{
 .opaque{
     opacity: 0.5;
 }
-@media screen and  (max-width: 412px){
+@media screen and  (min-width: 412px){
     body{
         width: 412px;
     }
