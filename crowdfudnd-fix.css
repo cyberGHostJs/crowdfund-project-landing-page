@@ -5,7 +5,7 @@ body{
     background-color: whitesmoke;
 }
 section{
-    background-image: url("C:/Users/dell/Documents/crowdfunding-product-page-main/crowdfunding-product-page-main/images/hero-desktop.jpg");
+    background-image: url("images/hero-desktop.jpg");
     height:400px;
     width:auto;
     background-repeat: no-repeat;
