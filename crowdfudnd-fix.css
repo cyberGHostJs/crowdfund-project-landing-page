@@ -376,7 +376,7 @@ hr{
 }
 @media screen and  (max-width: 412px){
     body{
-        max-width: 412px;
+        width: 412px;
     }
     section{
         height:400px;
